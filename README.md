@@ -1,8 +1,18 @@
-# React + Vite
+# `SaaS Landing Page`
+A SaaS Landing Page built with React and Tailwind CSS, featuring smooth scrolling effects using React Scroll and dynamic class handling with clsx.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Demo
+You can see the live version of the project here: https://vercel.live/link/saa-s-landing-page-c82m-git-master-iqra-rasheeds-projects.vercel.app?via=deployment-domains-list&p=1
 
-Currently, two official plugins are available:
+# Features
+Responsive Design: Fully responsive across different screen sizes using Tailwind CSS.<br>
+Smooth Scrolling: Implemented seamless scroll behavior using React Scroll.<br>
+Dynamic Class Handling: Utilizes clsx to manage conditional classes in React components. <br>
+Reusable Components: Structured with modular and reusable React components.<br>
+Clean UI: Tailwind CSS ensures a minimalist, yet effective user interface.<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tech Stack
+React: Core front-end library for building the user interface.<br>
+Tailwind CSS: Utility-first CSS framework for creating a responsive layout and styling.<br>
+React Scroll: For smooth scrolling navigation between different sections of the landing page.<br>
+clsx: A utility for dynamically toggling CSS classes in JSX.

@@ -2,8 +2,7 @@
 A SaaS Landing Page built with React and Tailwind CSS, featuring smooth scrolling effects using React Scroll and dynamic class handling with clsx.
 
 # Demo
-You can see the live version of the project here: https://vercel.live/link/saa-s-landing-page-c82m-git-master-iqra-rasheeds-projects.vercel.app?via=deployment-domains-list&p=1
-
+You can see the live version of the project here: https://saa-s-landing-page-lime.vercel.app/
 # Features
 Responsive Design: Fully responsive across different screen sizes using Tailwind CSS.<br>
 Smooth Scrolling: Implemented seamless scroll behavior using React Scroll.<br>

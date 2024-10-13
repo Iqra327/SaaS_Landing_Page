@@ -14,4 +14,4 @@ Clean UI: Tailwind CSS ensures a minimalist, yet effective user interface.<br>
 React: Core front-end library for building the user interface.<br>
 Tailwind CSS: Utility-first CSS framework for creating a responsive layout and styling.<br>
 React Scroll: For smooth scrolling navigation between different sections of the landing page.<br>
-clsx: A utility for dynamically toggling CSS classes in JSX.
+clsx: A utility for dynamically toggling CSS classes in JSX.<br>
